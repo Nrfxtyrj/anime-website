@@ -1,0 +1,40 @@
+html {
+    background-color: rgb(73, 73, 73);
+}
+body {
+    background-color: rgb(73, 73, 73); 
+}
+.link{
+    text-decoration: none;
+    color: rgb(141, 141, 141);
+}
+.link:hover {
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+.find {
+    width: 17px;
+    height: 20px;
+    padding-bottom: 3px;
+}
+.anime {
+    background-color: rgba(0, 0, 0, 0.3);
+    margin-bottom: 0;
+}
+.top-anime {
+    width: 160px;
+    height: 220px;
+    margin-bottom: 10px;
+}
+.play-anime {
+    width: 160px;
+    height: 220px;
+}
+.main-top-anime {
+    padding: 10px auto;
+    padding-left: 70px;
+    background-color: rgb(58, 58, 58);
+}
+.text-light {
+    width: 70%;
+}
