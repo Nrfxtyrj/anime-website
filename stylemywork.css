@@ -38,3 +38,24 @@ text-decoration: none;
 .text-light {
     width: 70%;
 }
+.main-board {
+    display: flex;
+}
+#anime-board {
+    width: 45%;
+    height: 25%;
+    margin: 10px auto;
+}
+@media screen and (max-width: 1100px) {
+    #poster {
+        display: none;
+    }
+    .main-board {
+        display: block;
+    }
+    #anime-board {
+        width: 80%;
+        height: 25%;
+        margin: 10px auto;
+    }
+}
